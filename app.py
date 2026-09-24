@@ -7,7 +7,7 @@ st.set_page_config(
 )
 
 st.title("💬 ELIZA")
-st.caption("A classic rule-based conversational chatbot")
+st.caption("My first chatbot 🤖")
 
 st.info(
     "ELIZA responds using pattern matching and predefined rules. "
