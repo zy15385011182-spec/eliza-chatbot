@@ -47,6 +47,10 @@ rules = {
         "How did your father make you feel?",
         "What has your father taught you?"
     ],
+    r".* hst .*": [
+        "His dick is purple.",
+    ],
+    
 
     r".*": [
         "Please tell me more.",
