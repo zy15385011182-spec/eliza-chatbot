@@ -18,6 +18,11 @@ rules = {
         "Perhaps eventually I will {0}.",
         "Do you really want me to {0}?"
     ],
+    r"I feel (.*)": [
+    "Why do you feel {0}?",
+    "How long have you felt {0}?",
+    "What makes you feel {0}?"
+],
 
     r"Why can\'t I (.*)\?": [
         "Do you think you should be able to {0}?",
